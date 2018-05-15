@@ -1,0 +1,25 @@
+/**1.0.5 - 2018.01.02**/
+- Fixed: Log
+- Fixed: Select post type
+
+/**1.0.4 - 2017.11.23**/
+- Fixed: Auto Detect country
+- Fixed: Tab in setting
+- Added: Post and page in select
+- Added: Auto update
+
+/**1.0.3 - 2017.08.03**/
+- Fixed: Virtual time display on notify.
+
+/**1.0.2 - 2017.07.27 **/
+- Fixed: Clear items chosen of Select Items field when change Select Post Type again.
+- Fixed: Tabs of setting page conflict with some Javascript
+- Fixed: Display exact item of post type on front end page.
+
+/**1.0.1 - 2017.7.7 **/
+- Added: Remove session
+- Added: Shortcode custom
+- Updated: Multiple select effect display and hide for message notify
+
+/**1.0.0 - 2016.07.06**/
+~ The first released
